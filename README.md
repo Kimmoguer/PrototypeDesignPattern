@@ -19,4 +19,4 @@ Type: Spreadsheet, Name: sales_data_q1.xlsx, Rows: 1000, Columns: 20
 
 Opening PDF Document: summary_report.pdf by Acme Corp (30 pages)
 
-<img width="1139" height="3358" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/5a7ed6ad-bd59-4e92-bf4e-519b0a68c1a8" />
+<img width="2048" height="2229" alt="Blank diagram" src="https://github.com/user-attachments/assets/d6bc4f73-7493-4f96-a669-c92c01dbd150" />
